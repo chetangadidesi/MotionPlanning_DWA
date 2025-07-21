@@ -1,6 +1,7 @@
 # Dynamic Window Approach (DWA) - Local Path Planning in Python
 
 This project implements the **Dynamic Window Approach (DWA)** for local motion planning in autonomous mobile robots. Each simulation run creates a new set of random obstacles and a goal position, allowing the robot to dynamically plan its path and avoid collisions in real time.
+
 <img src = "dwa.png">
 
 ---
